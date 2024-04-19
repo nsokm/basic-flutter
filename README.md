@@ -16,4 +16,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot](D:\trainflutter\hi\trainprotoss\assets\images\Screenshot 2024-04-19 163657.png )
+![Screenshot](assets/images/Screenshot%202024-04-19%20163657.png)
+
